@@ -1,0 +1,11 @@
+Fb App Name: QuottyApp
+Fb Page Name: Quotty
+Fb App Access Token: EAAWOhTYnL08BAC8VZCGWFs7gNZBnhlM2kXAanezSkK5aUzRqu4CcZCAUKxHljqEvF6HjrgoLD7zo1fNvpGPsznugzxayRRP5VSWGylaQGe6p0JG8LwnKfz72ZAkQYP7ZBLvXdiJ8sA4qVvGh21r11S2ZBdokMkyZAmIYXAD3zZAgAwZDZD
+Fb App Secret: a6c37956bff1ca9f85ac380b7ba06123
+Fb App Id: 1564077673885519
+Heroku App Name:
+	VYALLEYDATION_TWOKEN : ultraBook_i_love_surfacePro_4_Myan!
+
+Heroku Git Url: https://git.heroku.com/quottyheroku.git
+Heroku App Url: http://quottyheroku.herokuapp.com/
+Quotes json link: https://api.myjson.com/bins/56bdg

@@ -1,0 +1,16 @@
+{
+  "name": "myquotebot",
+  "version": "1.0.0",
+  "description": "my first attempt to create a quotation bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MrClan",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.72.0",
+    "restify": "^4.0.4"
+  }
+}
